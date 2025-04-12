@@ -1,6 +1,6 @@
 # Pneumonia Detection in Chest X-rays Using Deep Learning 🩻🤖
 
-![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(45).png ) <!-- Image 1: Project cover (e.g., chest X-ray with prediction overlay) -->
+![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(44).png ) <!-- Image 1: Project cover (e.g., chest X-ray with prediction overlay) -->
 
 ## 🧠 Introduction
 
@@ -108,7 +108,7 @@ Incorporating such AI tools in hospitals and mobile health apps can **save lives
 - Deploy as a web-based diagnostic tool with Gradio or Streamlit
 - Integrate with hospital systems for real-time screening
 
-![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(45).png ) <!-- Image 4: Vision of app/tool in use -->
+![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(44).png ) <!-- Image 4: Vision of app/tool in use -->
 
 ---
 
