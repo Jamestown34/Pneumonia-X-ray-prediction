@@ -1,6 +1,6 @@
 # Pneumonia Detection in Chest X-rays Using Deep Learning 🩻🤖
 
-![](images/pneumonia_cover.png) <!-- Image 1: Project cover (e.g., chest X-ray with prediction overlay) -->
+![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(45).png ) <!-- Image 1: Project cover (e.g., chest X-ray with prediction overlay) -->
 
 ## 🧠 Introduction
 
@@ -43,7 +43,7 @@ The dataset used was sourced from [Kaggle's Chest X-Ray Images (Pneumonia) datas
   - 1,583 Normal
   - 4,273 Pneumonia
 
-![](images/pneumonia_data_split.png) <!-- Image 2: Data split bar chart or pie chart -->
+![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(45).png) <!-- Image 2: Data split bar chart or pie chart -->
 
 ### 2️⃣ Data Preprocessing
 
@@ -108,7 +108,7 @@ Incorporating such AI tools in hospitals and mobile health apps can **save lives
 - Deploy as a web-based diagnostic tool with Gradio or Streamlit
 - Integrate with hospital systems for real-time screening
 
-![](images/pneumonia_future_app.png) <!-- Image 4: Vision of app/tool in use -->
+![](https://github.com/Jamestown34/Pneumonia-X-ray-prediction/blob/main/imagesForPnuemonia/Screenshot%20(45).png ) <!-- Image 4: Vision of app/tool in use -->
 
 ---
 
